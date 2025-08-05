@@ -1,4 +1,4 @@
-<h1 lign="center"> Calculadora Agil em Pynthon <br /> </h1>
+<h1 align="center"> Calculadora Agil em Pynthon <br /> </h1>
 
 <div align="center">
   
